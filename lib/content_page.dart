@@ -12,7 +12,7 @@ class ContentPage extends StatelessWidget {
             Stack(
               children: [
                 Positioned(
-                  child: Container(
+                  child: SizedBox(
                     height: 500,
                     child: Stack(
                       children: [
